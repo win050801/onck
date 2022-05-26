@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767035763640",
+    "project_id": "onthi-85e11",
+    "storage_bucket": "onthi-85e11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767035763640:android:cacb31a8aefcc44e2d3d4d",
+        "android_client_info": {
+          "package_name": "com.example.onthi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767035763640-c72t6otjt93brim1510t5173q13qaquk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz-e_BQ_xLqn0xcqMZZbFSagha8GxUawc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767035763640-c72t6otjt93brim1510t5173q13qaquk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
